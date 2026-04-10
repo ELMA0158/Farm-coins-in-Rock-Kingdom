@@ -18,6 +18,12 @@
 
 ---
 
+## ⬇️ 下载
+
+- **[Download RocoAutoCoin](https://github.com/ELMA0158/Farm-coins-in-Rock-Kingdom/releases/tag/RocoAutoCoin)**
+
+---
+
 ## 📌 致谢
 
 - [Rocokingdom-AutoCoin](https://github.com/wuyan124/Rocokingdom-AutoCoin)
