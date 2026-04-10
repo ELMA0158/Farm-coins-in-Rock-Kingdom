@@ -20,7 +20,7 @@
 
 ## ⬇️ 下载
 
-- **[Download RocoAutoCoin](https://github.com/ELMA0158/Farm-coins-in-Rock-Kingdom/releases/tag/RocoAutoCoin)**
+- [Download RocoAutoCoin](https://github.com/ELMA0158/Farm-coins-in-Rock-Kingdom/releases/tag/RocoAutoCoin)
 
 ---
 
